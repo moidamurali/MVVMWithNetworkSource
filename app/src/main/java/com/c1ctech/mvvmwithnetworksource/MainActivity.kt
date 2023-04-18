@@ -10,6 +10,8 @@ import com.c1ctech.mvvmwithnetworksource.repository.MainRepository
 import com.c1ctech.mvvmwithnetworksource.viewmodel.MainViewModel
 
 class MainActivity : AppCompatActivity() {
+    //Explanation Link
+    //https://c1ctech.com/android-mvvm-pattern-with-retrofit-in-kotlin/
     private val TAG = "MainActivity"
     private lateinit var binding: ActivityMainBinding
 
